@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	text-size-adjust: 100%;
+}
+
+.inner {
+	@include aoContainer;
+}
+
+.title {
+	@extend %header-large;
+
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	line-height: 1.5;
+	text-align: center;
+}

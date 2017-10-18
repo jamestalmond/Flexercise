@@ -1,0 +1,12 @@
+{
+	"config": {
+		"lang": "en-GB",
+		"title": ""
+	},
+
+	"layout": [
+		{
+			"templateId": "flexercise"
+		}
+	]
+}

@@ -1,22 +1,24 @@
-/* Globals */
+//
+//
+//
+// This is a SCSS partial that will be compiled down to CSS, feel free to utilise any SCSS methods you wish
+//
+// Don't worry about prefixes, the SCSS compiler will automatically output what's needed for IE9+
+//
+//
+//
+
+// Globals
 
 @import 'susy/sass/susy';
-// @import 'variables';
-// @import 'mixins';
-// @import 'placeholders';
 
-/* Local Includes */
+// Local Includes
 
 @import 'inc/variables';
 @import 'inc/mixins';
 @import 'inc/placeholders';
 
-/* Global Styles */
-
-// @import 'AoStickyNav/styles';
-// @import 'AoPropositionFooter/styles';
-
-/* Page Styles */
+// Page Styles
 
 .flexercise {
 	max-width: $maxWidth;

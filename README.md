@@ -20,7 +20,7 @@ The layout __must__:
 
 If you’re feeling brave, create a 2 column layout below the 3 column layout.
 
-Get knee deep in flex and see what problems you come up against, remember to refer to the properties within the workshop document [here](https://docs.google.com/document/d/1pgKD1npgkk5iwy1QOLV2X-Lvk2DlsRKHIGS-5rTkiEQ/edit?usp=sharing) if you get stuck.
+Get knee deep in flex and see what problems you come up against, if you get stuck please ask for help, we're all here to learn.
 
 If you complete the first exercise, feel free to move onto the second layout exercise:
 
